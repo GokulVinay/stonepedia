@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: hsla(238, 94%, 13%, 0.91);
+    border-bottom: 1px solid #ddd;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .navLinks {
+    display: flex;
+    list-style: none;
+    color: #ffffff;
+  }
+  
+  .navLinks li {
+    margin: 0 10px;
+    color: #ffffff;
+  }
+  
+  .navLinks a {
+    color: #ffffff;
+  }
+  

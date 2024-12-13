@@ -1,0 +1,16 @@
+.testimonials {
+    padding: 20px;
+    background-color: hsla(238, 94%, 13%, 0.91);
+    text-align: center;
+  }
+  
+  .testimonials h2 {
+    color: #ffffff;
+  }
+  
+  .testimonials .testimonial {
+    margin-top: 20px;
+    font-style: italic;
+    color: #ffffff;
+  }
+  

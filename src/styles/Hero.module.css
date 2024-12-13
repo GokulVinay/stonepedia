@@ -1,0 +1,47 @@
+.hero {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+  color:hsla(238, 94%, 13%, 0.91);
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: hsla(238, 94%, 13%, 0.91);
+  font-weight: bold;
+  
+}
+
+.hero div{
+  background-color: #ffffff;
+  height: 35vh;
+  width: 80vw;
+  border-radius: 20px;
+  border-style: solid;
+  border-color:  hsla(238, 94%, 13%, 0.91);
+  border-width: 5px;
+  opacity: 0.85;
+  padding: 10px;
+}
+
+.hero button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: hsla(238, 94%, 13%, 0.91);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
